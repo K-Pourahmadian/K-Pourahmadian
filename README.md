@@ -28,7 +28,7 @@ This page is where I share the small tools, notes, and *skills* I build — most
 <p align="center">
 <img src="https://img.shields.io/badge/Python-C9A227?style=for-the-badge&logo=python&logoColor=0B0E11"/>
 <img src="https://img.shields.io/badge/PHP-C9A227?style=for-the-badge&logo=php&logoColor=0B0E11"/>
-<img src="https://img.shields.io/badge/Java-C9A227?style=for-the-badge&logo=java&logoColor=0B0E11"/>
+<img src="https://img.shields.io/badge/Java-C9A227?style=for-the-badge&logo=openjdk&logoColor=0B0E11"/>
 <img src="https://img.shields.io/badge/Git-C9A227?style=for-the-badge&logo=git&logoColor=0B0E11"/>
 
 </p>
