@@ -27,8 +27,8 @@ This page is where I share the small tools, notes, and *skills* I build — most
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-C9A227?style=for-the-badge&logo=python&logoColor=0B0E11"/>
-<img src="https://img.shields.io/badge/PHP-C9A227?style=for-the-badge&logo=cplusplus&logoColor=0B0E11"/>
-<img src="https://img.shields.io/badge/Java-C9A227?style=for-the-badge&logo=latex&logoColor=0B0E11"/>
+<img src="https://img.shields.io/badge/PHP-C9A227?style=for-the-badge&logo=php&logoColor=0B0E11"/>
+<img src="https://img.shields.io/badge/Java-C9A227?style=for-the-badge&logo=java&logoColor=0B0E11"/>
 <img src="https://img.shields.io/badge/Git-C9A227?style=for-the-badge&logo=git&logoColor=0B0E11"/>
 
 </p>
@@ -38,7 +38,7 @@ This page is where I share the small tools, notes, and *skills* I build — most
 ## 𝔊𝔦𝔱ℌ𝔲𝔟 𝔖𝔱𝔞𝔱𝔦𝔰𝔱𝔦𝔠𝔰
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=K-Pourahmadian&show_icons=true&theme=transparent&hide_border=true&title_color=C9A227&icon_color=6E1423&text_color=EDE3D0&bg_color=00000000" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?K-Pourahmadian=K-Pourahmadian&show_icons=true&theme=transparent&hide_border=true&title_color=C9A227&icon_color=6E1423&text_color=EDE3D0&bg_color=00000000" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Pourahmadian&layout=compact&theme=transparent&hide_border=true&title_color=C9A227&text_color=EDE3D0&bg_color=00000000" width="49%"/>
 </p>
 
