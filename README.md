@@ -39,7 +39,7 @@ This page is where I share the small tools, notes, and *skills* I build — most
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?K-Pourahmadian=K-Pourahmadian&show_icons=true&theme=transparent&hide_border=true&title_color=C9A227&icon_color=6E1423&text_color=EDE3D0&bg_color=00000000" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Pourahmadian&layout=compact&theme=transparent&hide_border=true&title_color=C9A227&text_color=EDE3D0&bg_color=00000000" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?K-Pourahmadian=K-Pourahmadian&layout=compact&theme=transparent&hide_border=true&title_color=C9A227&text_color=EDE3D0&bg_color=00000000" width="49%"/>
 </p>
 
 <p align="center">
