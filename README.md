@@ -37,7 +37,7 @@ This page is where I share the small tools, notes, and *skills* I build — most
 
 ## 𝔊𝔦𝔱ℌ𝔲𝔟 𝔖𝔱𝔞𝔱𝔦𝔰𝔱𝔦𝔠𝔰
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=K-Pourahmadian&show_icons=true&theme=transparent&hide_border=true&title_color=C9A227&icon_color=C9A227&text_color=EDE3D0" width="49%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Pourahmadian&layout=compact&theme=transparent&hide_border=true&title_color=C9A227&text_color=EDE3D0" width="49%"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=K-Pourahmadian&hide_border=true&background=00000000&ring=C9A227&fire=6E1423&currStreakLabel=C9A227&sideLabels=EDE3D0&currStreakNum=EDE3D0&sideNums=EDE3D0&dates=8A8A8A" width="60%"/> </p> <p align="center">✦ ────────────────────────── ✦</p> <details> <summary>📖 &nbsp;<b>Currently on my shelf</b></summary> <br/>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=K-Pourahmadian&show_icons=true&theme=transparent&hide_border=true&title_color=C9A227&icon_color=C9A227&text_color=EDE3D0" width="49%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Pourahmadian&layout=compact&theme=transparent&hide_border=true&title_color=C9A227&text_color=EDE3D0" width="49%"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=K-Pourahmadian&hide_border=true&background=00000000&ring=C9A227&fire=6E1423&currStreakLabel=C9A227&sideLabels=EDE3D0&currStreakNum=EDE3D0&sideNums=EDE3D0&dates=8A8A8A" width="60%"/> </p>
 
 
 <details>
