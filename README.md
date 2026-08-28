@@ -3,6 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0E11,100:1B2430&height=210&section=header&text=Kiarash%20Pourahmadian&fontSize=42&fontColor=C9A227&fontAlignY=38&desc=Learner%20%E2%80%A2%20Reader%20%E2%80%A2%20Builder%20of%20Small%2C%20Useful%20Things&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Georgia&size=20&duration=3200&pause=900&color=C9A227&center=true&vCenter=true&width=650&lines=Student+%E2%9C%A6+Curious+Mind;Reader+of+Classic+Novels+%26+Equations;Building+Tools+for+Readers+%26+Learners" alt="Typing SVG" />
+<br/>
+<img src="./profile/atom.svg" width="70" alt="atom" />
 
 </div>
 
